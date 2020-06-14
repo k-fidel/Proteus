@@ -1,0 +1,11 @@
+{
+    "V": ["Number_of_Customers", "Demand_Factor", "Overload", "Outage_Duration" , "Weather","Time","Day","Season"],
+    "E": [["Number_of_Customers", "Overload"],
+          ["Demand_Factor", "Overload"],
+	  ["Day","Time"],
+	  ["Time","Demand_Factor"],
+	  ["Season","Weather"],
+	  ["Weather","Demand_Factor"],
+          ["Overload", "Outage_Duration"]]
+
+}

@@ -1,0 +1,7 @@
+{
+    "V": ["Number_of_Customers", "Demand_Factor", "Overload", "Outage_Duration"],
+    "E": [["Number_of_Customers", "Overload"],
+          ["Demand_Factor", "Overload"],
+          ["Overload", "Outage_Duration"]]
+
+}

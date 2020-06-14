@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab1_Agents_code.iml" filepath="$PROJECT_DIR$/.idea/Lab1_Agents_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Project/PokerProject V2/PokerProject/.idea/PokerProject.iml" filepath="$PROJECT_DIR$/../Project/PokerProject V2/PokerProject/.idea/PokerProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Project/PokerProject V2/.idea/PokerProject V2.iml" filepath="$PROJECT_DIR$/../Project/PokerProject V2/.idea/PokerProject V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Project/.idea/Project.iml" filepath="$PROJECT_DIR$/../Project/.idea/Project.iml" />
+    </modules>
+  </component>
+</project>

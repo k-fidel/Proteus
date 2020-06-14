@@ -1,0 +1,7 @@
+{
+    "V": ["AverageRaise", "Call", "HandStrength", "Coin","Fold"],
+    "E": [["AverageRaise", "HandStrength"],
+	  ["Coin", "AverageRaise"],
+	  ["HandStrength" , "Fold"],
+          ["Call", "HandStrength"]]
+}

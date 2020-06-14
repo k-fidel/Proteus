@@ -1,0 +1,3 @@
+import PathPlanning as pp
+
+pp.generateMap2d_obstacle([40,40])
